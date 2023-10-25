@@ -15,7 +15,7 @@ public class Maxmin {
             }
         }
         System.out.println("The maximum number in the given array is : " + max);
-        System.out.println("The minimum number in the given array is : "+min);
+        System.out.println("The minimum number in the given is ... : "+min);
     }
 }
 
